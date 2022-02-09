@@ -26,8 +26,17 @@ Este repositório é para organizar os conteúdos do bootcamp de Java da DIO.
 - ### **Projeto github**
 ![Projeto](./certificados/projeto-1.png)
 
+<br>
+
 - ### **Ambiente Java**
 ![Java](./certificados/java-1.png)
 
+<br>
+
 - ### **IDEs para Java**
 ![IDE](./certificados/ide-java-1.png)
+
+<br>
+
+- ### **Variáveis do Java**
+![Types](./certificados/tipos-java-1.png)
