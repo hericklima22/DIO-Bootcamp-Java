@@ -40,3 +40,8 @@ Este repositório é para organizar os conteúdos do bootcamp de Java da DIO.
 
 - ### **Variáveis do Java**
 ![Types](./certificados/tipos-java-1.png)
+
+<br>
+
+- ### **Métodos em Java**
+![Métodos](./certificados/metodos-1.png)
