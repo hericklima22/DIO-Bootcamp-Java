@@ -28,3 +28,6 @@ Este repositório é para organizar os conteúdos do bootcamp de Java da DIO.
 
 - ### **Ambiente Java**
 ![Java](./certificados/java-1.png)
+
+- ### **IDEs para Java**
+![IDE](./certificados/ide-java-1.png)
