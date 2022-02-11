@@ -45,3 +45,13 @@ Este repositório é para organizar os conteúdos do bootcamp de Java da DIO.
 
 - ### **Métodos em Java**
 ![Métodos](./certificados/metodos-1.png)
+
+<br>
+
+- ### **Lógica condicional em Java**
+![Operadores](./certificados/condicional-1.png)
+
+<br>
+
+- ### **Arrays em Java**
+![Array](./certificados/arraysjava-1.png)
